@@ -16,6 +16,7 @@ Main features:
 - [x] Handling wrong user input (Wrong city name entered)
 - [x] Saving weather data to local files to read them if there is no internet connection
 - [x] Dedicated layouts for landscape mode
+- [ ] Code refactoring
   
 Astrological information(Info about Moon/Sun rise, set, phase etc.):  
 <img src="/screenshots/portrait1.png" width="200">
