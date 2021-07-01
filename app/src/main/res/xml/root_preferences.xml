@@ -1,0 +1,45 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="Global"
+        >
+
+        <EditTextPreference
+            app:defaultValue="1"
+            app:key="refresh_time"
+            app:title="@string/refresh_time"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Astro">
+
+        <EditTextPreference
+            app:defaultValue="21.017"
+            app:key="longitude"
+            app:title="@string/longitude"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:defaultValue="52.237"
+            app:key="latitude"
+            app:title="@string/latitude"
+            app:useSimpleSummaryProvider="true" />
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Weather">
+
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/units"
+            android:entryValues="@array/units_entries"
+            android:key="units_preference"
+            android:title="Units"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

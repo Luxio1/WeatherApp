@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">AstroWeather</string>
+    <string name="sun_btn">Sun</string>
+    <string name="moon_btn">Moon</string>
+    <string name="settings_btn">Settings</string>
+    <string name="refresh_time">Refresh (minutes):&#160;</string>
+
+    <string name="time">Time:&#160;</string>
+    <string name="longitude">Longitude:&#160;</string>
+    <string name="latitude">Latitude:&#160;</string>
+
+    <string name="rise_time">Rise time:&#160;</string>
+    <string name="rise_azimuth">Rise azimuth:&#160;</string>
+    <string name="set_time">Set time:&#160;</string>
+    <string name="set_azimuth">Set azimuth:&#160;</string>
+    <string name="rise_civil">Civil rise:&#160;</string>
+    <string name="set_civil">Civil set:&#160;</string>
+    <string name="phase">Phase:&#160;</string>
+    <string name="new_moon">New moon:&#160;</string>
+    <string name="full_moon">Full moon:&#160;</string>
+    <string name="synodic_day">Day of synodic month:&#160;</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="sun">Sun</string>
+    <string name="moon">Moon</string>
+
+    <string name="get_btn">GET</string>
+    <string name="add_btn">ADD</string>
+    <string name="et_city">City</string>
+
+    <string name="city_label">City:&#160;</string>
+    <string name="temperature_label">Temperature:&#160;</string>
+    <string name="pressure_label">Pressure:&#160;</string>
+    <string name="conditions_label">Weather Conditions:&#160;</string>
+    <string name="none_label">None</string>
+
+    <string name="feels_like">Feels Like:&#160;</string>
+    <string name="humidity">Humidity:&#160;</string>
+    <string name="wind_speed">Wind Speed:&#160;</string>
+    <string name="clouds_percent">Clouds Percent:&#160;</string>
+    <string name="default_city">Warsaw</string>
+    <string name="your_favourite_cities">Your Favourite Cities (Hold to set)</string>
+    <string name="tempMaxValue">Temp Max:&#160;</string>
+    <string name="tempMinValue">Temp Min:&#160;</string>
+    <string name="delete_selected">Delete selected</string>
+
+</resources>
