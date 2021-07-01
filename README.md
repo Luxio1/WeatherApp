@@ -5,24 +5,25 @@ Weather and astrological information App
 ## TabLayout and ViewPager2 for showing proper fragments.
 ## OpenWeatherMap API for current weather and forecast information.
 
-Project for university classes.
-In app we can check astrological information(Info about Moon/Sun rise, set, phase etc.)
-<img src="/screenshots/portrait1.png" width="200">
-<img src="/screenshots/portrait2.png" width="200">
+Project for university classes.\
+In app we can check astrological information(Info about Moon/Sun rise, set, phase etc.)\
 
-We can check current weather information and forecast too.
+<img src="/screenshots/portrait1.png" width="200">
+<img src="/screenshots/portrait2.png" width="200">\
+
+We can check current weather information and forecast too.\
+
 <img src="/screenshots/portrait3.png" width="200">
 <img src="/screenshots/portrait4.png" width="200">
-<img src="/screenshots/portrait5.png" width="200">
+<img src="/screenshots/portrait5.png" width="200">\
 
-We can make our favourites cities list and fast change between them by holding long click on any of these.
-<img src="/screenshots/portrait6.png" width="200">
+We can make our favourites cities list and fast change between them by holding long click on any of these.\
+<img src="/screenshots/portrait6.png" width="200">\
 
-There is simple Settings page to change units or refresh time, and longitude and latitude for astrological information.
-<img src="/screenshots/portrait7.png" width="200">
+There is simple Settings page to change units or refresh time, and longitude and latitude for astrological information.\
 
-
-Landscape mode has dedicated layouts
+<img src="/screenshots/portrait7.png" width="200">\
+Landscape mode has dedicated layouts\
 <img src="/screenshots/land1.png" width="200">
 <img src="/screenshots/land2.png" width="200">
 <img src="/screenshots/land3.png" width="200">
