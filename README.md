@@ -34,7 +34,7 @@ We can make our favourites cities list and fast change between them by holding l
 There is simple Settings page to change units or refresh time, and longitude and latitude for astrological information.  
 
 <img src="/screenshots/portrait7.png" width="200">  
-Landscape mode has dedicated layouts\
+Landscape mode has dedicated layouts  
 <img src="/screenshots/land1.png" width="400">
 <img src="/screenshots/land2.png" width="400">
 <img src="/screenshots/land3.png" width="400">
