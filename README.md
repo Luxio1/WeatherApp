@@ -35,10 +35,10 @@ There is simple Settings page to change units or refresh time, and longitude and
 
 <img src="/screenshots/portrait7.png" width="200">  
 Landscape mode has dedicated layouts\
-<img src="/screenshots/land1.png" width="200">
-<img src="/screenshots/land2.png" width="200">
-<img src="/screenshots/land3.png" width="200">
-<img src="/screenshots/land4.png" width="200">
-<img src="/screenshots/land5.png" width="200">
-<img src="/screenshots/land6.png" width="200">
-<img src="/screenshots/land7.png" width="200">
+<img src="/screenshots/land1.png" width="400">
+<img src="/screenshots/land2.png" width="400">
+<img src="/screenshots/land3.png" width="400">
+<img src="/screenshots/land4.png" width="400">
+<img src="/screenshots/land5.png" width="400">
+<img src="/screenshots/land6.png" width="400">
+<img src="/screenshots/land7.png" width="400">
